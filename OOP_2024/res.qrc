@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/explosion.png</file>
+        <file>image/flag.png</file>
+        <file>image/mine.png</file>
+        <file>image/tada.png</file>
+        <file>image/transparent.png</file>
+        <file>image/wrong.png</file>
+        <file>image/fail.png</file>
+        <file>image/smile.png</file>
+        <file>image/success.png</file>
+    </qresource>
+</RCC>
